@@ -1,3 +1,19 @@
+# Cross Platform Letter Spacing For React Native
+
+This is an example repository for the implementation of cross platform letter spacing for React Native.
+
+## Examples
+
+### On iOS
+
+<img src="https://raw.githubusercontent.com/devmynd/react-native-x-platform-letter-spacing/master/ios-example.png" alt="iOS Letter Spacing Example" style="width: 50%;" />
+
+### On Android
+
+<img src="https://raw.githubusercontent.com/devmynd/react-native-x-platform-letter-spacing/master/android-example.png" alt="Android Letter Spacing Example" style="width: 50%;" />
+
+## Create React Native App generated readme below
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
