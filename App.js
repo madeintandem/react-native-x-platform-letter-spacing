@@ -10,6 +10,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text style={styles.text}>Hello World</Text>
         <TextWithLetterSpacing spacing={SPACING}>Hello World</TextWithLetterSpacing>
+        <TextWithLetterSpacing spacing={SPACING} viewStyle={styles.withSpacingViewStyle}>Hello World</TextWithLetterSpacing>
       </View>
     );
   }
@@ -24,5 +25,9 @@ const styles = StyleSheet.create({
   },
   text: {
     letterSpacing: SPACING
+  },
+  withSpacingViewStyle: {
+    paddingBottom: 2,
+    borderBottomWidth: 1
   }
 });

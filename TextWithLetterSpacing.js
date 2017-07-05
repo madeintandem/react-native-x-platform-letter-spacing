@@ -10,7 +10,7 @@ export const TextWithLetterSpacing = (props) => {
 
   return <View style={[styles.container, viewStyle]}>
     {letters.map((letter, index) =>
-      <Letter key={index} spacing={spacing} isLast={false} textStyle={textStyle}>
+      <Letter key={index} spacing={spacing} isLast={isLast(letters, index)} textStyle={textStyle}>
         {letter}
       </Letter>
     )}
