@@ -4,13 +4,12 @@ This is an example repository for the implementation of cross platform letter sp
 
 ## Examples
 
-### On iOS
+iOS on the left, Android on the right.
 
-<img src="https://raw.githubusercontent.com/devmynd/react-native-x-platform-letter-spacing/master/ios-example.png" alt="iOS Letter Spacing Example" style="width: 50%;" />
+<img src="https://raw.githubusercontent.com/devmynd/react-native-x-platform-letter-spacing/master/ios-example.png" alt="iOS Letter Spacing Example" aligh="left" />
 
-### On Android
 
-<img src="https://raw.githubusercontent.com/devmynd/react-native-x-platform-letter-spacing/master/android-example.png" alt="Android Letter Spacing Example" style="width: 50%;" />
+<img src="https://raw.githubusercontent.com/devmynd/react-native-x-platform-letter-spacing/master/android-example.png" alt="Android Letter Spacing Example" aligh="right" />
 
 ## Create React Native App generated readme below
 
